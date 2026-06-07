@@ -6,3 +6,4 @@ seaborn
 openpyxl
 scipy
 scikit-learn
+xgboost
